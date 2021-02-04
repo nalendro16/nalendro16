@@ -1,6 +1,7 @@
 ### Hi there 👋 ###
 
-Hola, my name is Nalendro 
+Hola, my name is Nalendro im interrest on Front End Developer using Vue.js. I understand about IOT using ESP8266.
+
   * 🔭 I’m currently working as IT Staff
   * 🌱 I’m currently learning PHP, JavaScript and C/C++
 <!--
