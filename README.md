@@ -15,4 +15,4 @@ Hello, my name is Nalendro im an electrical engineer i had interrest on Front En
 Here's my Github account Resume
 
 ![Nalendro16's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalendro16&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalendro16&layout=compact)](https://github.com/nalendro16/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalendro16&layout=compact&theme=material-palenight)](https://github.com/nalendro16/github-readme-stats)
