@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ###
 
   *bullet list🔭 I’m currently working as IT Staff
   *🌱 I’m currently learning PHP, JavaScript and C/C++
