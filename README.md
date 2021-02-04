@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Nalendro16's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalendro16&show_icons=true&theme=merko)
-[![Nalendro16's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nalendro)](https://github.com/nalendro16/github-readme-stats)
