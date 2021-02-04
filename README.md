@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Nalendro16's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalendro16&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalendro16&theme=tokyonight)
