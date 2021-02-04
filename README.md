@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-  🔭 I’m currently working as IT Staff
-  🌱 I’m currently learning PHP, JavaScript and C/C++
+  *🔭 I’m currently working as IT Staff
+  *🌱 I’m currently learning PHP, JavaScript and C/C++
 <!--
 **nalendro16/nalendro16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Nalendro16's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalendro16&show_icons=true&theme=radical)
+![Nalendro16's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalendro16&show_icons=true&theme=merko)
 [![Nalendro16's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nalendro6)](https://github.com/nalendro16/github-readme-stats)
