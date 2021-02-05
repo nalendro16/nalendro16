@@ -5,6 +5,8 @@ Hello, my name is Nalendro im an electrical engineer i had interrest on Front En
   * 🔭 I’m currently working as IT Staff
   * 🌱 I’m learning PHP, JavaScript and C/C++
   * 👯 I’m looking to collaborate on build a project as Front End Developer
+  
+Thankyou for visiting my github, here's more information about my code activity
 
 ## 🧰 Languages and Tools:
 <p align="center">
