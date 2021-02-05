@@ -3,7 +3,7 @@
 Hello, my name is Nalendro im an electrical engineer i had interrest on Front End Developer using Vue.js. Either that i know how to build a website using PHP, wether on using Laravel, or Native PHP. I learn about Embeded system technology too using C/C++ language on Arduino. I can use any sensors, modules and  i understand about IOT using ESP8266.
 
   * 🔭 I’m currently working as IT Staff
-  * 🌱 I’m currently learning PHP, JavaScript and C/C++
+  * 🌱 I’m learning PHP, JavaScript and C/C++
   * 👯 I’m looking to collaborate on build a project as Front End Developer
 
 ## 🧰 Languages and Tools:
