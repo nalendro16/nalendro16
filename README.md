@@ -5,7 +5,7 @@ Hello, my name is Nalendro im graduate in electrical engineer i had interrest on
   * 👷 I’m currently working as IT Staff
   * 🍀 I’m learning JavaScript, Kotlin, PHP and C/C++
   * 📚 I Learn on How to Build Android Apps using Kotlin, Make Hybrid Apps using React-Native, and I start my Own IoT dashboard using PHP for API and C/C++ for Hardware
-  * 🚞 As Electrical Engineer I have experience using NodeMcu, Arduino, and ARM32
+  * 🚞 As Electrical Engineer I have experience using NodeMcu, Arduino and PLC
   * 🔎 I’m looking to collaborate on build a project as Front End Developer 
   
 Thankyou for visiting my github, here's more information about my code activity
