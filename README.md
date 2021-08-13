@@ -1,6 +1,6 @@
 ### Hi there 👋 ###
 
-Hello, my name is Nalendro im graduate in electrical engineer i had interrest on Front End Developer using Vue.js. Other than that i know how to build a website using PHP, wether it using Laravel, or Native PHP. I learn about Embeded system technology too using C/C++ language on Arduino.
+Hello, my name is Nalendro im graduate in electrical engineer i had interrest on Front End Developer using Vue.js or React JS. Other than that i learn how to build a website using PHP, wether it using Laravel, or Native PHP. I learn about Embeded system technology too using C/C++ language on Arduino.
 
   * 👷 I’m currently working as IT Staff
   * 🍀 I’m learning JavaScript
