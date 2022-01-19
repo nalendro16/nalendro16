@@ -2,12 +2,6 @@
 
 Hello, my name is Nalendro im graduate in electrical engineer i had interrest on Front End Developer using Vue.js or React JS. I learn about Embeded system technology too using C/C++ language on Arduino.
 
-  * 👷 I’m currently working as IT Staff
-  * 🍀 I’m learning JavaScript
-  * 🚞 As Electrical Engineer I have experience using NodeMcu, Arduino and PLC
-  
-Thankyou for visiting my github, here's more information about my code activity
-
 ## 🧰 Languages and Tools:
 <p align="center">
  
