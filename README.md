@@ -1,6 +1,6 @@
 ### Hi there 👋 ###
 
-Hello, my name is Nalendro im graduate in electrical engineer i had interrest on Front End Developer using Vue.js or React JS. I learn about Embeded system technology too using C/C++ language on Arduino.
+Hello, my name is Nalendro im graduate in electrical engineer i had interrest on Front End Developer using React JS/ Vue JS. I learn about Embeded system technology using C/C++ language on Arduino too.
 
 ## 🧰 Languages and Tools:
 <p align="center">
