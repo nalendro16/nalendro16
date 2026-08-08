@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/nalendro16/TRL">
   <img
     align="center"
