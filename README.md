@@ -1,15 +1,21 @@
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/nalendro16/TRL">
   <img
     align="center"
-    src="https://github-stats-extended.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nalendro16&repo=TRL"
   />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/nalendro16/ci_mini_article_app">
   <img
     align="center"
-    src="https://github-stats-extended.vercel.app/api/pin/?username=anuraghazra&repo=convoychat"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nalendro16&repo=ci_mini_article_app"
+  />
+</a>
+<a href="https://github.com/nalendro16/personal-site-nuxt">
+  <img
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=nalendro16&repo=personal-site-nuxt"
   />
 </a>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nalendro16&layout=compact" alt="Top Languages" />
